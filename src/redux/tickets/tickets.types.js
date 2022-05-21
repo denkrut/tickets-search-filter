@@ -1,0 +1,6 @@
+export const TicketsActionTypes = {
+  GET_ALL_TICKETS: "GET_ALL_TICKETS",
+  SORT_BY_STOPS: "SORT_BY_STOPS",
+  SORT_BY_SPEED: "SORT_BY_SPEED",
+  SORT_BY_PRICE: "SORT_BY_PRICE",
+};

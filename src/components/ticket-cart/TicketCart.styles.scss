@@ -1,0 +1,55 @@
+.ticket-container{
+    flex-basis: 420px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 12px #cfc9c9;
+    margin: 15px 0 22px 0 ;
+
+
+// .low-price-tag{
+
+//     background-color: rgb(51, 244, 128);
+//     border-radius: 5px;    
+//         color: rgb(31, 22, 22);
+//         padding: 0 0 3px 3px;
+//         margin: 0;
+//         width: 130px;
+//         font-weight: 600;
+//         line-height: 15px;
+//         position:relative;
+//         top: -8px;
+//         left: 10px;
+
+// }
+
+    .ticket-header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px;
+        margin: 5px 14px 10px 14px ;
+
+        img{
+            width: 100px;
+
+        }
+
+        .ticket-header, span {
+            color: rgb(92, 203, 237);
+            font-size: 25px;
+            font-weight: 600;
+        }
+    }
+
+    .flight-direction{
+       height: 100px;
+    //    margin-top: 10px;
+     ;
+    }
+}
+
+@media (max-width: 765px) {
+    .ticket-container{
+        width:auto
+
+    }
+}

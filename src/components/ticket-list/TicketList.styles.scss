@@ -1,0 +1,12 @@
+.ticket-list-container{
+    
+    width: 450px;
+  
+}
+
+@media (max-width: 765px) {
+    .ticket-list-container{
+        width: auto;
+    }
+
+}
