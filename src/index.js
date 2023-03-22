@@ -11,3 +11,5 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
+
+// comments from issue 2
