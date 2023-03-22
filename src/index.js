@@ -11,10 +11,3 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
-
-
-// comments from issue 2
-// more changes
-// else
-
-// somo comments
