@@ -12,4 +12,8 @@ root.render(
   </Provider>
 );
 // Issue 3
+
 // hotfix
+
+// Issue 10
+
