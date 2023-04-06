@@ -11,10 +11,4 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
-// Issue 3
-
-// hotfix
-
-// Issue 10
-
-// new hotfix branch
+//new branch to be published
