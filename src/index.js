@@ -11,6 +11,4 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
-//All new code is in the main
-// More new
-//added new code
+// Code in main branch while Very new issue is created
