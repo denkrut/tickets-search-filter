@@ -11,6 +11,4 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
-// Code in main branch while Very new issue is created
-//Next Change in main
-//Third Change in main
+//NO CHANGES
