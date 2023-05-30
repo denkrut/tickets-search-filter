@@ -11,7 +11,6 @@ root.render(
     </React.StrictMode>
   </Provider>
 );
-<<<<<<< HEAD
 //NO CHANGES
 // chnages in app.js main branch
 // Code in main branch while Very new issue is created
@@ -19,11 +18,4 @@ root.render(
 //Third Change in main
 //Started working on Very new issue
 //Changes in Very new issue branch after rebase
-=======
-
-//NO CHANGES
-
->>>>>>> cbd4235 (Save changes before rebase)
 //Some changes in issue branch before rebase from main
-
-//Some changes in issue branch ALL AFTER rebase from main
